@@ -9,8 +9,8 @@ servicios relacionados.
 Nombre, número de teléfono, y cualquier información que proporciones durante las conversaciones.
 
 ## Cómo usamos tus datos:
-Los datos recopilados se utilizarán únicamente para procesar tus solicitues del servicio, proporcionar información, 
-aclarar dudas y brindar soporte.
+Los datos recopilados se utilizarán únicamente para procesar tus solicitues del servicio, proporcionar información de los
+servicios profesionales brindados, aclarar dudas y brindar soporte.
 
 ## Protección de tus datos:
 Implementamos medidas técnicas y organizativas para proteger tu información contra accesos no autorizados.
