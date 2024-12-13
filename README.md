@@ -16,10 +16,11 @@ servicios profesionales brindados, aclarar dudas y brindar soporte.
 Implementamos medidas técnicas y organizativas para proteger tu información contra accesos no autorizados.
 
 ## Tus derechos:
-Puedes solicitar acceso, corrección o eliminación de tus datos contactándonos en [el.altar.mx.01@gmail.com]
+Puedes solicitar acceso, corrección o eliminación de tus datos contactándonos en [el.altar.mx.01@gmail.com] o a través del número
+[8714151562].
 
 ## Cambios en esta política:
-Nos reservamos el derecho de actualizar esta política. Las modificaciones se publicarán en https://github.com/Balbi01/cleaning-king-policy/.
+Nos reservamos el derecho de actualizar esta política. Las modificaciones se publicarán en el repositorio https://github.com/Balbi01/cleaning-king-policy/.
 
 ## ¿Dónde puedo contactarlos?
 Para consultas sobre esta política, contáctanos en [el.altar.mx.01@gmail.com].
