@@ -1,5 +1,5 @@
 # El Altar Policy
-Política de Privacidad de Cleaning King
+Política de Privacidad de El ALtar MX
 
 En El Altar, valoramos tu privacidad. Esta política explica cómo recopilamos, usamos y 
 protegemos tus datos personales cuando interactúas con nosotros a través de WhatsApp o nuestros
